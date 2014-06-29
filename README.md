@@ -1,7 +1,7 @@
 grabhdrraw
 ==========
 
-Utility tool to retrieve raw pictures taken in bracketing mode for HDR.
+Utility tool to retrieve only raw pictures taken in bracketing mode for HDR from a given directory.
 
 Simply works by finding series of photos with EV values `[0.0, -0.66, 0.66, -1.33, 1.33]`.
 
